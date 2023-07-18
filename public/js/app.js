@@ -29,5 +29,5 @@ const weatherForm = document.querySelector('form').addEventListener('submit', (e
     // console.log(inputVal.value);
 
     // console.log(responseData)
-    console.log('submited')
+    // console.log('submited')
 })
